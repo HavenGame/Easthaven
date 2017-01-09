@@ -1,1 +1,4 @@
 
+<Version: 1.01>
+/data/TESTING-UPDATER.zip https://drive.google.com/uc?export=download&id=0B7JcZsRMVtOPTW9LMHBYa2dmSVk
+<End of Version>
